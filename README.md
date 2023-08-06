@@ -1,6 +1,5 @@
 # WordVerse - A Blogging and Writing Platform
 
-![Project Logo](/path/to/logo.png)
 
 Welcome to the WordVerse repository! This project aims to create a platform for sharing posts and writing prompts, similar to a blogging website. The application is built using Next.js, providing a modern and efficient framework for building web applications.
 
